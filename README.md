@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe Api project
+# Recipe App
+The recipe-app-api is a Django Rest Framework (DRF) backend application designed for storing recipes, featuring a test-driven development (TDD) approach and Docker containerization GitHub Actions are employed for CI/CD, automating testing and deployment processes. Users must register to access the API, with token authentication ensuring secure interactions. CRUD operations on recipes are supported, along with the ability to add ingredients and tags via dedicated endpoints. Additionally, users have the capability to update their personal information.
